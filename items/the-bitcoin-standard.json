@@ -1,0 +1,51 @@
+{
+    "id": "the-bitcoin-standard",
+    "name": "The Bitcoin Standard",
+    "purchasable": true,
+    "basic-information": {
+        "year": {
+            "value": "2018"
+        },
+        "publisher": {
+            "value": "Wiley"
+        },
+        "pages": {
+            "value": "298"
+        }
+    },
+    "authors": {
+        "names": {
+            "value": "Saifedean Ammous"
+        },
+        "website": {
+            "value": "Website",
+            "url": "https://saifedean.com/"
+        },
+        "twitter": {
+            "value": "@saifedean",
+            "url": "https://twitter.com/saifedean"
+        },
+        "nostr": {
+            "value": "saifedean",
+            "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+        },
+        "youtube": {
+            "value": "@saifedean",
+            "url": "https://www.youtube.com/@saifedean"
+        }
+    },
+    "format": {
+        "ebook": {
+            "value": "YES",
+            "supported": true
+        },
+        "hardcover": {
+            "value": "YES",
+            "supported": true
+        },
+        "audiobook": {
+            "value": "NO",
+            "supported": false
+        }
+    }
+}
