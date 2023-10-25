@@ -76,6 +76,7 @@ All the features supported:
 | Authors | authors | Nostr | nostr |
 | Authors | authors | YouTube | youtube |
 | Publication Format | format | Ebook | ebook |
+| Publication Format | format | Paperback | paperback |
 | Publication Format | format | Hardcover | hardcover |
 | Publication Format | format | Audiobook | audiobook |
 
