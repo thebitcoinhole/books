@@ -1,0 +1,53 @@
+{
+  "id": "the-bitcoin-dictionary",
+  "name": "The Bitcoin Dictionary",
+  "short-description": "A Reference and Primer for Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2020"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "97"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Ansel Lindner"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@AnselLindner",
+      "url": "https://twitter.com/AnselLindner"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "NO",
+      "supported": false
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "learn-bitcoin",
+  "name": "Learn Bitcoin",
+  "short-description": "Become Financially Sovereign",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2021"
+    },
+    "publisher": {
+      "value": "PoshMedia"
+    },
+    "pages": {
+      "value": "192"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Anita Posch"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://anitaposch.com/"
+    },
+    "twitter": {
+      "value": "@AnitaPosch",
+      "url": "https://twitter.com/AnitaPosch"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

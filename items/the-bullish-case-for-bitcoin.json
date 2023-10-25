@@ -1,37 +1,35 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "the-bullish-case-for-bitcoin",
+  "name": "The Bullish Case for Bitcoin",
   "purchasable": true,
   "basic-information": {
     "year": {
       "value": "2021"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "-"
     },
     "pages": {
-      "value": "424"
+      "value": "156"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Vijay Boyapati"
     },
     "website": {
       "value": "Website",
-      "url": "https://saifedean.com/"
+      "url": "sample"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "@real_vijay",
+      "url": "https://twitter.com/real_vijay"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {
@@ -44,12 +42,12 @@
       "supported": false
     },
     "hardcover": {
-      "value": "YES",
-      "supported": true
-    },
-    "audiobook": {
       "value": "NO",
       "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
     }
   }
 }

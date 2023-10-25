@@ -1,0 +1,53 @@
+{
+  "id": "grokking-bitcoin",
+  "name": "Grokking Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2019"
+    },
+    "publisher": {
+      "value": "Manning"
+    },
+    "pages": {
+      "value": "480"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Kalle Rosenbaum"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://popeller.io/"
+    },
+    "twitter": {
+      "value": "@kallerosenbaum",
+      "url": "https://twitter.com/kallerosenbaum"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}

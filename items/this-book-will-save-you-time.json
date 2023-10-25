@@ -1,0 +1,51 @@
+{
+  "id": "this-book-will-save-you-time",
+  "name": "This Book Will Save You Time",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2020"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "104"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Misir Mahmudov"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

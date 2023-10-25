@@ -1,37 +1,36 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "better-money",
+  "name": "Better Money",
+  "short-description": "Gold, Fiat, or Bitcoin?",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2021"
+      "value": "2023"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "Cambridge University Press"
     },
     "pages": {
-      "value": "424"
+      "value": "185"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Lawrence H. White"
     },
     "website": {
       "value": "Website",
-      "url": "https://saifedean.com/"
+      "url": "https://www.cato.org/alt-m"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "@lawrencehwhite1",
+      "url": "https://twitter.com/lawrencehwhite1"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {
@@ -40,8 +39,8 @@
       "supported": true
     },
     "paperback": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true
     },
     "hardcover": {
       "value": "YES",

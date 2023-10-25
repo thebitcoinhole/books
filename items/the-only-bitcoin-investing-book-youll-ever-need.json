@@ -1,37 +1,35 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "the-only-bitcoin-investing-book-youll-ever-need",
+  "name": "The Only Bitcoin Investing Book You'll Ever Need",
+  "short-description": "An Absolute Beginner's Guide to the Cryptocurrency Which Is Changing the World and Your Finances in 2021 & Beyond",
   "purchasable": true,
   "basic-information": {
     "year": {
       "value": "2021"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "-"
     },
     "pages": {
-      "value": "424"
+      "value": "116"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Freeman Publications"
     },
     "website": {
       "value": "Website",
-      "url": "https://saifedean.com/"
+      "url": "https://freemanpublications.com/"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "-"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {
@@ -48,8 +46,8 @@
       "supported": true
     },
     "audiobook": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true
     }
   }
 }

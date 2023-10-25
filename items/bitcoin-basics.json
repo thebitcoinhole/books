@@ -1,0 +1,52 @@
+{
+  "id": "bitcoin-basics",
+  "name": "Bitcoin Basics",
+  "short-description": "Buying, Selling, Creating and Investing Bitcoins - The Digital Currency of the Future",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2013"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "30"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Benjamin Tideas"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

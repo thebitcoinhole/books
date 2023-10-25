@@ -1,37 +1,35 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "bitcoin-sovereignty-independence",
+  "name": "Bitcoin: Sovereignty & Independence",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2021"
+      "value": "2023"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "Konsensus Network"
     },
     "pages": {
-      "value": "424"
+      "value": "153"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Knut Svanholm"
     },
     "website": {
       "value": "Website",
-      "url": "https://saifedean.com/"
+      "url": "https://www.knutsvanholm.com/"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "@knutsvanholm",
+      "url": "https://twitter.com/knutsvanholm"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {
@@ -40,8 +38,8 @@
       "supported": true
     },
     "paperback": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true
     },
     "hardcover": {
       "value": "YES",

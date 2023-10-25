@@ -1,0 +1,52 @@
+{
+  "id": "why-bitcoin",
+  "name": "Why Bitcoin?",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "Konsensus Network"
+    },
+    "pages": {
+      "value": "107"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Tomer Strolight"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@TomerStrolight",
+      "url": "https://twitter.com/TomerStrolight"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "NO",
+      "supported": false
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "YES",
+      "supported": true
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}

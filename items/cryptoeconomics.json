@@ -1,0 +1,53 @@
+{
+  "id": "cryptoeconomics",
+  "name": "Cryptoeconomics",
+  "short-description": "Fundamental Principles of Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2021"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "331"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Eric Voskuil"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@evoskuil",
+      "url": "https://twitter.com/evoskuil"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}

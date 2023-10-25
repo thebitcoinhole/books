@@ -1,0 +1,55 @@
+{
+  "id": "the-internet-of-money-volume-two",
+  "name": "The Internet of Money - Volume Two",
+  "short-description": "A collection of talks by Andreas M. Antonopoulos",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2017"
+    },
+    "publisher": {
+      "value": "Merkle Bloom"
+    },
+    "pages": {
+      "value": "188"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Andreas M. Antonopoulos"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://aantonop.com/"
+    },
+    "twitter": {
+      "value": "@aantonop",
+      "url": "https://twitter.com/aantonop"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "@aantonop",
+      "url": "https://www.youtube.com/@aantonop"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "NO",
+      "supported": false
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

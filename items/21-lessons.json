@@ -1,0 +1,55 @@
+{
+  "id": "21-lessons",
+  "name": "21 Lessons",
+  "short-description": "What I've Learned from Falling Down the Bitcoin Rabbit Hole",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2020"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "157"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Gigi"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://dergigi.com/"
+    },
+    "twitter": {
+      "value": "@dergigi",
+      "url": "https://twitter.com/dergigi"
+    },
+    "nostr": {
+      "value": "gigi",
+      "url": "https://snort.social/p/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

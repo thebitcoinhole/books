@@ -1,0 +1,52 @@
+{
+  "id": "bitcoin-decoded",
+  "name": "Bitcoin Decoded",
+  "short-description": "Bitcoin Beginner's Guide to Mining and the Strategies to Make Money with Cryptocurrencies.",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2014"
+    },
+    "publisher": {
+      "value": "Propellerhead Marketing Group"
+    },
+    "pages": {
+      "value": "98"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Brett Combs, Tom Mitsoff"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a-progressives-case-for-bitcoin",
+  "name": "A Progressive's Case for Bitcoin",
+  "purchasable": true,
+  "short-description": "A Path Toward a More Just, Equitable, and Peaceful World",
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "BTC Media"
+    },
+    "pages": {
+      "value": "243"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "C. Jason Maier"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://www.bitcoinprogressive.com/"
+    },
+    "twitter": {
+      "value": "@cjasonmaier",
+      "url": "https://twitter.com/cjasonmaier"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

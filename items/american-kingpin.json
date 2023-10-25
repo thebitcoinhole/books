@@ -1,37 +1,36 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "american-kingpin",
+  "name": "American Kingpin",
+  "short-description": "The Epic Hunt for the Criminal Mastermind Behind the Silk Road",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2021"
+      "value": "2017"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "Portfolio"
     },
     "pages": {
-      "value": "424"
+      "value": "343"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Nick Bilton"
     },
     "website": {
       "value": "Website",
-      "url": "https://saifedean.com/"
+      "url": "https://www.truestoryla.com/"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "@nickbilton",
+      "url": "https://twitter.com/nickbilton"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {
@@ -48,8 +47,8 @@
       "supported": true
     },
     "audiobook": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true
     }
   }
 }

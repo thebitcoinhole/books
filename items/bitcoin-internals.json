@@ -1,0 +1,52 @@
+{
+  "id": "bitcoin-internals",
+  "name": "Bitcoin Internals",
+  "short-description": "A Technical Guide to Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2013"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "56"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Chris Clark"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "NO",
+      "supported": false
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}

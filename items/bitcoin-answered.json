@@ -1,37 +1,34 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "bitcoin-answered",
+  "name": "Bitcoin Answered",
+  "short-description": "A Beginner's Guide to Everything Bitcoin",
   "purchasable": true,
   "basic-information": {
     "year": {
       "value": "2021"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "Aude Publishing"
     },
     "pages": {
-      "value": "424"
+      "value": "208"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Jon Law"
     },
     "website": {
-      "value": "Website",
-      "url": "https://saifedean.com/"
+      "value": "-"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "-"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {

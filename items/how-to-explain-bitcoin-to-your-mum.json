@@ -1,37 +1,36 @@
 {
-  "id": "the-bitcoin-standard",
-  "name": "The Bitcoin Standard",
+  "id": "how-to-explain-bitcoin-to-your-mum",
+  "name": "How to EXPLAIN BITCOIN to your mum",
+  "short-description": "The complete guide to Bitcoin for novices, experts and mums everywhere",
   "purchasable": true,
   "basic-information": {
     "year": {
       "value": "2018"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "-"
     },
     "pages": {
-      "value": "298"
+      "value": "156"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Jason Deane"
     },
     "website": {
       "value": "Website",
-      "url": "https://saifedean.com/"
+      "url": "https://jasonadeane.medium.com/"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "@JasonADeane",
+      "url": "https://twitter.com/JasonADeane"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {
@@ -40,12 +39,12 @@
       "supported": true
     },
     "paperback": {
-      "value": "NO",
-      "supported": false
-    },
-    "hardcover": {
       "value": "YES",
       "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
     },
     "audiobook": {
       "value": "NO",

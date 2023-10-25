@@ -1,37 +1,36 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "layered-money",
+  "name": "Layered Money",
+  "short-description": "From Gold and Dollars to Bitcoin and Central Bank Digital Currencies",
   "purchasable": true,
   "basic-information": {
     "year": {
       "value": "2021"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "Nikhil Bhatia"
     },
     "pages": {
-      "value": "424"
+      "value": "180"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Nik Bhatia"
     },
     "website": {
       "value": "Website",
-      "url": "https://saifedean.com/"
+      "url": "https://thebitcoinlayer.com/"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "@timevalueofbtc",
+      "url": "https://twitter.com/timevalueofbtc"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {
@@ -48,8 +47,8 @@
       "supported": true
     },
     "audiobook": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true
     }
   }
 }

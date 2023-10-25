@@ -1,0 +1,54 @@
+{
+  "id": "bitcoin-on-the-go",
+  "name": "Bitcoin on the Go",
+  "short-description": "The Basics of Bitcoins and Blockchains",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2022"
+    },
+    "publisher": {
+      "value": "Mango"
+    },
+    "pages": {
+      "value": "158"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Antony Lewis"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://bitsonblocks.net/"
+    },
+    "twitter": {
+      "value": "@antony_btc",
+      "url": "https://twitter.com/antony_btc"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

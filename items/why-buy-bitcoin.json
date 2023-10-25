@@ -1,0 +1,54 @@
+{
+  "id": "why-buy-bitcoin",
+  "name": "Why Buy Bitcoin",
+  "short-description": "Investing Today in the Money of Tomorrow",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2019"
+    },
+    "publisher": {
+      "value": "Countercycle Media"
+    },
+    "pages": {
+      "value": "208"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Andy Edstrom"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://www.andyedstrom.com/"
+    },
+    "twitter": {
+      "value": "@edstromandrew",
+      "url": "https://twitter.com/edstromandrew"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

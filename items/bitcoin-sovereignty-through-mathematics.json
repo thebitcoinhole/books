@@ -1,0 +1,53 @@
+{
+  "id": "bitcoin-sovereignty-through-mathematics",
+  "name": "Bitcoin: Sovereignty through mathematics",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2019"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "107"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Knut Svanholm"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://www.knutsvanholm.com/"
+    },
+    "twitter": {
+      "value": "@knutsvanholm",
+      "url": "https://twitter.com/knutsvanholm"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

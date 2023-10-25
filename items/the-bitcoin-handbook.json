@@ -1,0 +1,52 @@
+{
+  "id": "the-bitcoin-handbook",
+  "name": "The Bitcoin Handbook",
+  "short-description": "Key Concepts in Economics, Technology & Psychology",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "Konsensus Network"
+    },
+    "pages": {
+      "value": "91"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Anil Patel"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "YES",
+      "supported": true
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}

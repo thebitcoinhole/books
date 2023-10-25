@@ -1,0 +1,53 @@
+{
+  "id": "bitcoin-clarity",
+  "name": "Bitcoin Clarity",
+  "short-description": "The Complete Beginners Guide to Understanding",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "20202"
+    },
+    "publisher": {
+      "value": "Bickers & Son"
+    },
+    "pages": {
+      "value": "235"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Kiara Bickers"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@kiarabickers",
+      "url": "https://twitter.com/kiarabickers"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": true
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

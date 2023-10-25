@@ -1,37 +1,37 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "qa-about-bitcoin",
+  "name": "Q/A about Bitcoin",
+  "short-description": "From the blockchain concept to the definition of the LNP/BP suite",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2021"
+      "value": "2019"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "-"
     },
     "pages": {
-      "value": "424"
+      "value": "226"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "David Coen"
     },
     "website": {
       "value": "Website",
-      "url": "https://saifedean.com/"
+      "url": "https://davidcoen.it/"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "@thedavidcoen",
+      "url": "https://twitter.com/thedavidcoen"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "@DavidCoenIT",
+      "url": "https://www.youtube.com/@DavidCoenIT"
     }
   },
   "format": {
@@ -40,8 +40,8 @@
       "supported": true
     },
     "paperback": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true
     },
     "hardcover": {
       "value": "YES",

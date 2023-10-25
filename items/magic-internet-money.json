@@ -1,0 +1,54 @@
+{
+  "id": "magic-internet-money",
+  "name": "Magic Internet Money",
+  "short-description": "A Book About Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2020"
+    },
+    "publisher": {
+      "value": "Jesse Berger"
+    },
+    "pages": {
+      "value": "127"
+    }
+  },
+  "authors": {
+    "names": {
+      "value": "Jesse Berger"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://magicbitcoinbook.com/"
+    },
+    "twitter": {
+      "value": "@jayberjay",
+      "url": "https://twitter.com/jayberjay"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true
+    }
+  }
+}

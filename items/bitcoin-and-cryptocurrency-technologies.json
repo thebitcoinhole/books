@@ -1,37 +1,35 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "bitcoin-and-cryptocurrency-technologies",
+  "name": "Bitcoin and Cryptocurrency Technologies",
+  "short-description": "A Comprehensive Introduction",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2021"
+      "value": "2016"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "Princeton University Press"
     },
     "pages": {
-      "value": "424"
+      "value": "328"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder"
     },
     "website": {
-      "value": "Website",
-      "url": "https://saifedean.com/"
+      "value": "-"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "@random_walker",
+      "url": "https://twitter.com/random_walker"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {

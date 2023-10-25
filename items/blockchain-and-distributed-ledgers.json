@@ -1,37 +1,34 @@
 {
-  "id": "the-fiat-standard",
-  "name": "The Fiat Standard",
+  "id": "blockchain-and-distributed-ledgers",
+  "name": "Blockchain And Distributed Ledgers",
+  "short-description": "Mathematics, Technology, And Economics",
   "purchasable": true,
   "basic-information": {
     "year": {
       "value": "2021"
     },
     "publisher": {
-      "value": "Wiley"
+      "value": "World Scientific"
     },
     "pages": {
-      "value": "424"
+      "value": "808"
     }
   },
   "authors": {
     "names": {
-      "value": "Saifedean Ammous"
+      "value": "Alexander Lipton, Adrien Treccani"
     },
     "website": {
-      "value": "Website",
-      "url": "https://saifedean.com/"
+      "value": "-"
     },
     "twitter": {
-      "value": "@saifedean",
-      "url": "https://twitter.com/saifedean"
+      "value": "-"
     },
     "nostr": {
-      "value": "saifedean",
-      "url": "https://primal.net/p/npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak"
+      "value": "-"
     },
     "youtube": {
-      "value": "@saifedean",
-      "url": "https://www.youtube.com/@saifedean"
+      "value": "-"
     }
   },
   "format": {
@@ -40,8 +37,8 @@
       "supported": true
     },
     "paperback": {
-      "value": "NO",
-      "supported": false
+      "value": "YES",
+      "supported": true
     },
     "hardcover": {
       "value": "YES",
