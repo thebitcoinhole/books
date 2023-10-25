@@ -14,8 +14,8 @@
       "value": "328"
     }
   },
-  "authors": {
-    "names": {
+  "authorship": {
+    "authors": {
       "value": "Many",
       "texts": [
         "Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder"

@@ -70,11 +70,11 @@ All the features supported:
 | Basic Information | basic-information | Publication Year | year |
 | Basic Information | basic-information | Publisher | publisher |
 | Basic Information | basic-information | Pages | pages |
-| Authors | authors | Names | names |
-| Authors | authors | Website | website |
-| Authors | authors | X (Twitter) | twitter |
-| Authors | authors | Nostr | nostr |
-| Authors | authors | YouTube | youtube |
+| Authorship | authorship | Authors | authors |
+| Authorship | authorship | Website | website |
+| Authorship | authorship | X (Twitter) | twitter |
+| Authorship | authorship | Nostr | nostr |
+| Authorship | authorship | YouTube | youtube |
 | Publication Format | format | Ebook | ebook |
 | Publication Format | format | Paperback | paperback |
 | Publication Format | format | Hardcover | hardcover |
