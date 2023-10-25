@@ -16,7 +16,10 @@
   },
   "authors": {
     "names": {
-      "value": "Bitcoin and Bible Group, Jimmy Song, Gabe Higgins, Derek Waltchack, Robert Breedlove, J.M. Bush, Julia Tourianski, Lyle Pratt, George Mekhail"
+      "value": "Many",
+      "texts": [
+        "Bitcoin and Bible Group, Jimmy Song, Gabe Higgins, Derek Waltchack, Robert Breedlove, J.M. Bush, Julia Tourianski, Lyle Pratt, George Mekhail"
+      ]
     },
     "website": {
       "value": "-"

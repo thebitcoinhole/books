@@ -16,7 +16,10 @@
   },
   "authors": {
     "names": {
-      "value": "Amanda Cavaleri, Annaliese Wiederspahn, Charline Fadirepo, CJ Wilson, Gary Leland, Lamar Wilson, Pete Rizzo, Jimmy Song"
+      "value": "Many",
+      "texts": [
+        "Amanda Cavaleri, Annaliese Wiederspahn, Charline Fadirepo, CJ Wilson, Gary Leland, Lamar Wilson, Pete Rizzo, Jimmy Song"
+      ]
     },
     "website": {
       "value": "-"
