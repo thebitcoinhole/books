@@ -34,19 +34,23 @@
   "format": {
     "ebook": {
       "value": "YES",
-      "supported": true
+      "supported": true,
+      "flag": "positive"
     },
     "paperback": {
       "value": "YES",
-      "supported": true
+      "supported": true,
+      "flag": "positive"
     },
     "hardcover": {
       "value": "NO",
-      "supported": false
+      "supported": false,
+      "flag": "negative"
     },
     "audiobook": {
       "value": "NO",
-      "supported": false
+      "supported": false,
+      "flag": "negative"
     }
   }
 }
