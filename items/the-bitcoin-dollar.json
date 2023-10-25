@@ -1,0 +1,52 @@
+{
+  "id": "the-bitcoin-dollar",
+  "name": "The Bitcoin-Dollar",
+  "short-description": "An Economic Monomyth",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "Bitcoin Magazine Books"
+    },
+    "pages": {
+      "value": "220"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Mark Goodwin"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "NO",
+      "supported": false
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}

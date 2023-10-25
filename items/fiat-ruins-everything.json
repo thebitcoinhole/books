@@ -1,0 +1,53 @@
+{
+  "id": "fiat-ruins-everything",
+  "name": "Fiat Ruins Everything",
+  "short-description": "How Our Financial System Is Rigged and How Bitcoin Fixes It",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "Bitcoin Magazine Books"
+    },
+    "pages": {
+      "value": "340"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Jimmy Song"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@jimmysong",
+      "url": "https://twitter.com/jimmysong"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "NO",
+      "supported": false
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}

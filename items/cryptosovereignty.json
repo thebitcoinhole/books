@@ -1,0 +1,54 @@
+{
+  "id": "cryptosovereignty",
+  "name": "Cryptosovereignty",
+  "short-description": "The Encrypted Political Philosophy of Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "Bitcoin Magazine Books"
+    },
+    "pages": {
+      "value": "273"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Erik Cason"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://cryptosovereignty.org/"
+    },
+    "twitter": {
+      "value": "@Erikcason",
+      "url": "https://twitter.com/Erikcason"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false
+    }
+  }
+}
