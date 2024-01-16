@@ -1,0 +1,57 @@
+{
+  "id": "bitcoin-money",
+  "name": "Bitcoin Money",
+  "short-description": "A Tale of Bitville Discovering Good Money",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2019"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "28"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Michael Caras"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@Michael_Caras",
+      "url": "https://twitter.com/Michael_Caras"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    }
+  }
+}
