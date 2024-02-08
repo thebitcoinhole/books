@@ -4,6 +4,13 @@
 
 Inside the `items` directory, there is a JSON file for each book, with all the data about it. To collaborate (adding missing data, fixing wrong data or adding a new book), just fork the repository and send a pull request with the changes.
 
+Before sending the pull request, please run the following commands to format the JSON:
+
+```
+cd scripts/
+node json-format.js
+```
+
 ## JSON format
 
 The following is a sample of the JSON format:
