@@ -1,0 +1,58 @@
+{
+  "id": "the-little-honey-badger",
+  "name": "The Little Honey Badger",
+  "short-description": "The Little Honey Badger And the Mysteries of Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "39"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Benjamin Colombier"
+    },
+    "website": {
+      "value": "Website",
+      "url": "sample"
+    },
+    "twitter": {
+      "value": "@BenjaminColomb9",
+      "url": "https://twitter.com/BenjaminColomb9"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    }
+  }
+}
