@@ -1,6 +1,7 @@
 {
   "id": "the-bitcoin-standard",
   "name": "The Bitcoin Standard",
+  "short-description": "The Decentralized Alternative to Central Banking",
   "purchasable": true,
   "basic-information": {
     "year": {
