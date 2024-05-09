@@ -1,0 +1,58 @@
+{
+  "id": "the-genesis-book",
+  "name": "The Genesis Book",
+  "short-description": "The Story of the People and Projects That Inspired Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2024"
+    },
+    "publisher": {
+      "value": "Bitcoin Magazine Books"
+    },
+    "pages": {
+      "value": "356"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Aaron van Wirdum"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://thegenesisbook.com/"
+    },
+    "twitter": {
+      "value": "@AaronvanW",
+      "url": "https://twitter.com/AaronvanW"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    }
+  }
+}
