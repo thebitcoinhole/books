@@ -1,0 +1,57 @@
+{
+  "id": "proof-of-money",
+  "name": "Proof of Money",
+  "short-description": "The Big Idea Behind Bitcoin (What You Don't Know About Why You Need It)",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "100 Percent Terry Cloth"
+    },
+    "pages": {
+      "value": "308"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Terence Michael"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@ProofOfMoney",
+      "url": "https://twitter.com/ProofOfMoney"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    }
+  }
+}
