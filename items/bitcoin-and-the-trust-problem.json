@@ -36,9 +36,15 @@
   },
   "format": {
     "ebook": {
-      "value": "NO",
-      "supported": false,
-      "flag": "negative"
+      "value": "YES",
+      "supported": true,
+      "flag": "positive",
+      "links": [
+        {
+          "title": "Digital (EPUB)",
+          "url": "https://bitcoinbook.shop/products/bitcoin-and-the-trust-problem?Format=Digital+%28EPUB%29"
+        }
+      ]
     },
     "paperback": {
       "value": "YES",
