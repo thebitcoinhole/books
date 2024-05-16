@@ -1,0 +1,59 @@
+{
+  "id": "bitcoin-and-the-trust-problem",
+  "name": "Bitcoin and The Trust Problem",
+  "short-description": "How bitcoin plays a role in fixing our world of trust",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "Konsensus Network"
+    },
+    "pages": {
+      "value": "166"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Karo Zagorus"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://bitcoiner.bio/btcdragonlord"
+    },
+    "twitter": {
+      "value": "@btcdragonlord",
+      "url": "https://twitter.com/btcdragonlord"
+    },
+    "nostr": {
+      "value": "Karo Zagorus",
+      "url": "https://primal.net/p/npub1t2jqazwvw3drtja7uwcyxuslalctln6g9p7zpw6ps9tvdswzm4cs9fhgkn"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    }
+  }
+}
