@@ -5,18 +5,18 @@
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2017"
+      "value": "2023"
     },
     "publisher": {
       "value": "O'Reilly Media"
     },
     "pages": {
-      "value": "390"
+      "value": "400"
     }
   },
   "authorship": {
     "authors": {
-      "value": "Andreas M. Antonopoulos"
+      "value": "Andreas M. Antonopoulos, David A. Harding"
     },
     "website": {
       "value": "Website",
@@ -51,9 +51,9 @@
       "flag": "negative"
     },
     "audiobook": {
-      "value": "YES",
-      "supported": true,
-      "flag": "positive"
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
     }
   }
 }

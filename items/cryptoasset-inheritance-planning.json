@@ -1,7 +1,7 @@
 {
   "id": "cryptoasset-inheritance-planning",
   "name": "Cryptoasset Inheritance Planning",
-  "short-description": "Simple Guide for Owners",
+  "short-description": "A Simple Guide for Owners",
   "purchasable": true,
   "basic-information": {
     "year": {
@@ -40,9 +40,9 @@
       "flag": "positive"
     },
     "paperback": {
-      "value": "NO",
-      "supported": false,
-      "flag": "negative"
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
     },
     "hardcover": {
       "value": "NO",

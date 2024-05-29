@@ -33,9 +33,9 @@
   },
   "format": {
     "ebook": {
-      "value": "NO",
-      "supported": false,
-      "flag": "negative"
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
     },
     "paperback": {
       "value": "YES",

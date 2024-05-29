@@ -11,7 +11,7 @@
       "value": "-"
     },
     "pages": {
-      "value": "110"
+      "value": "60"
     }
   },
   "authorship": {
@@ -48,9 +48,9 @@
       "flag": "positive"
     },
     "audiobook": {
-      "value": "NO",
-      "supported": false,
-      "flag": "negative"
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
     }
   }
 }
