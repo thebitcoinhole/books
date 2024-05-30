@@ -1,29 +1,33 @@
 {
-  "id": "the-bitcoin-dictionary",
-  "name": "The Bitcoin Dictionary",
-  "short-description": "A Reference and Primer for Bitcoin",
+  "id": "decrypting-money",
+  "name": "Decrypting Money",
+  "short-description": "A Comprehensive Introduction to Bitcoin",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2020"
+      "value": "2023"
     },
     "publisher": {
-      "value": "-"
+      "value": "Lioncrest Publishing"
     },
     "pages": {
-      "value": "97"
+      "value": "276"
     }
   },
   "authorship": {
     "authors": {
-      "value": "Ansel Lindner"
+      "value": "Many",
+      "texts": [
+        "Marco Krohn, Anthony Jefferies, Marco Streng, Zoran Balkic"
+      ]
     },
     "website": {
-      "value": "-"
+      "value": "Website",
+      "url": "https://decryptingmoney.com/"
     },
     "twitter": {
-      "value": "@AnselLindner",
-      "url": "https://x.com/AnselLindner"
+      "value": "@Marco_Streng",
+      "url": "https://x.com/Marco_Streng"
     },
     "nostr": {
       "value": "-"
@@ -44,9 +48,9 @@
       "flag": "positive"
     },
     "hardcover": {
-      "value": "NO",
-      "supported": false,
-      "flag": "negative"
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
     },
     "audiobook": {
       "value": "NO",

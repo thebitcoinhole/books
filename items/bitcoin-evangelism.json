@@ -1,29 +1,29 @@
 {
-  "id": "the-bitcoin-dictionary",
-  "name": "The Bitcoin Dictionary",
-  "short-description": "A Reference and Primer for Bitcoin",
+  "id": "bitcoin-evangelism",
+  "name": "Bitcoin Evangelism",
+  "short-description": "",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2020"
+      "value": "2022"
     },
     "publisher": {
       "value": "-"
     },
     "pages": {
-      "value": "97"
+      "value": "388"
     }
   },
   "authorship": {
     "authors": {
-      "value": "Ansel Lindner"
+      "value": "Brian De Mint"
     },
     "website": {
       "value": "-"
     },
     "twitter": {
-      "value": "@AnselLindner",
-      "url": "https://x.com/AnselLindner"
+      "value": "@BrianDeMint",
+      "url": "https://x.com/BrianDeMint"
     },
     "nostr": {
       "value": "-"
@@ -44,14 +44,14 @@
       "flag": "positive"
     },
     "hardcover": {
-      "value": "NO",
-      "supported": false,
-      "flag": "negative"
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
     },
     "audiobook": {
-      "value": "NO",
-      "supported": false,
-      "flag": "negative"
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
     }
   }
 }

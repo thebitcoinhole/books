@@ -1,29 +1,28 @@
 {
-  "id": "the-bitcoin-dictionary",
-  "name": "The Bitcoin Dictionary",
-  "short-description": "A Reference and Primer for Bitcoin",
+  "id": "strategies-for-liberty",
+  "name": "Strategies for Liberty",
+  "short-description": "Free Cities & Bitcoin",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2020"
+      "value": "2023"
     },
     "publisher": {
-      "value": "-"
+      "value": "Free Cities Foundation"
     },
     "pages": {
-      "value": "97"
+      "value": "103"
     }
   },
   "authorship": {
     "authors": {
-      "value": "Ansel Lindner"
+      "value": "Alexander Voss"
     },
     "website": {
       "value": "-"
     },
     "twitter": {
-      "value": "@AnselLindner",
-      "url": "https://x.com/AnselLindner"
+      "value": "-"
     },
     "nostr": {
       "value": "-"

@@ -1,35 +1,37 @@
 {
-  "id": "the-bitcoin-dictionary",
-  "name": "The Bitcoin Dictionary",
-  "short-description": "A Reference and Primer for Bitcoin",
+  "id": "bitcoin-everything-you-need-to-know",
+  "name": "Bitcoin: Everything You Need to Know",
+  "short-description": "",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2020"
+      "value": "2023"
     },
     "publisher": {
-      "value": "-"
+      "value": "Dicoland"
     },
     "pages": {
-      "value": "97"
+      "value": "154"
     }
   },
   "authorship": {
     "authors": {
-      "value": "Ansel Lindner"
+      "value": "David St-Onge"
     },
     "website": {
-      "value": "-"
+      "value": "Website",
+      "url": "https://everythingbitcoinbook.com/"
     },
     "twitter": {
-      "value": "@AnselLindner",
-      "url": "https://x.com/AnselLindner"
+      "value": "DavidStOnge",
+      "url": "https://x.com/DavidStOnge"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "-"
+      "value": "@DavidStOnge",
+      "url": "https://www.youtube.com/DavidStOnge"
     }
   },
   "format": {

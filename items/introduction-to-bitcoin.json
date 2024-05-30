@@ -1,29 +1,30 @@
 {
-  "id": "the-bitcoin-dictionary",
-  "name": "The Bitcoin Dictionary",
-  "short-description": "A Reference and Primer for Bitcoin",
+  "id": "introduction-to-bitcoin",
+  "name": "Introduction to Bitcoin",
+  "short-description": "Navigating the Future of Money",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2020"
+      "value": "2024"
     },
     "publisher": {
-      "value": "-"
+      "value": "Konsensus Network"
     },
     "pages": {
-      "value": "97"
+      "value": "252"
     }
   },
   "authorship": {
     "authors": {
-      "value": "Ansel Lindner"
+      "value": "Florin T. Hilbay"
     },
     "website": {
-      "value": "-"
+      "value": "Website",
+      "url": "https://florin.hilbay.net/"
     },
     "twitter": {
-      "value": "@AnselLindner",
-      "url": "https://x.com/AnselLindner"
+      "value": "@fthilbay",
+      "url": "https://x.com/fthilbay"
     },
     "nostr": {
       "value": "-"

@@ -1,35 +1,37 @@
 {
-  "id": "the-bitcoin-dictionary",
-  "name": "The Bitcoin Dictionary",
-  "short-description": "A Reference and Primer for Bitcoin",
+  "id": "21-futures",
+  "name": "21 Futures",
+  "short-description": "Tales from the Timechain",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2020"
+      "value": "2024"
     },
     "publisher": {
-      "value": "-"
+      "value": "Konsensus Network"
     },
     "pages": {
-      "value": "97"
+      "value": "265"
     }
   },
   "authorship": {
     "authors": {
-      "value": "Ansel Lindner"
+      "value": "21 Authors"
     },
     "website": {
-      "value": "-"
+      "value": "Website",
+      "url": "https://21futures.com/"
     },
     "twitter": {
-      "value": "@AnselLindner",
-      "url": "https://x.com/AnselLindner"
+      "value": "@21Futures",
+      "url": "https://x.com/21Futures"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "-"
+      "value": "@KonsensusNetwork",
+      "url": "https://www.youtube.com/@KonsensusNetwork"
     }
   },
   "format": {

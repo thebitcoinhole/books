@@ -1,35 +1,37 @@
 {
-  "id": "the-bitcoin-dictionary",
-  "name": "The Bitcoin Dictionary",
-  "short-description": "A Reference and Primer for Bitcoin",
+  "id": "history-echoes-bitcoin",
+  "name": "History Echoes Bitcoin",
+  "short-description": "",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2020"
+      "value": "2023"
     },
     "publisher": {
-      "value": "-"
+      "value": "Zoom Out"
     },
     "pages": {
-      "value": "97"
+      "value": "186"
     }
   },
   "authorship": {
     "authors": {
-      "value": "Ansel Lindner"
+      "value": "Tim Niemeyer"
     },
     "website": {
-      "value": "-"
+      "value": "Website",
+      "url": "https://sites.google.com/view/historyechoesbitcoin/home"
     },
     "twitter": {
-      "value": "@AnselLindner",
-      "url": "https://x.com/AnselLindner"
+      "value": "@HistEchoBTC",
+      "url": "https://x.com/HistEchoBTC"
     },
     "nostr": {
       "value": "-"
     },
     "youtube": {
-      "value": "-"
+      "value": "@HistEchoBTC",
+      "url": "https://www.youtube.com/@HistEchoBTC"
     }
   },
   "format": {
