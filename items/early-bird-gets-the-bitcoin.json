@@ -1,0 +1,56 @@
+{
+  "id": "early-bird-gets-the-bitcoin",
+  "name": "Early Bird Gets The Bitcoin",
+  "short-description": "The Ultimate Guide To Everything About Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2018"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "81"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Andrew K. Courey"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    }
+  }
+}

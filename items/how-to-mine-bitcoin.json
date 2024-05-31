@@ -1,0 +1,56 @@
+{
+  "id": "how-to-mine-bitcoin",
+  "name": "How To Mine Bitcoin",
+  "short-description": "A Beginners' Guide To Mine And Invest In Bitcoin",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2021"
+    },
+    "publisher": {
+      "value": "Independently published"
+    },
+    "pages": {
+      "value": "57"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Shirleen Seamons"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    }
+  }
+}

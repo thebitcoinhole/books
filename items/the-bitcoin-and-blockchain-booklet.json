@@ -1,0 +1,58 @@
+{
+  "id": "the-bitcoin-and-blockchain-booklet",
+  "name": "The Bitcoin and Blockchain Booklet",
+  "short-description": "The Beginner's Guide to Getting Started with Cryptocurrency",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2019"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "48"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Robert Beadles"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://cryptobeadles.com/"
+    },
+    "twitter": {
+      "value": "@RobertBeadles",
+      "url": "https://x.com/RobertBeadles"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    }
+  }
+}

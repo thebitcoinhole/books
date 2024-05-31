@@ -1,0 +1,59 @@
+{
+  "id": "bitcoin-the-blockchain-and-beyond",
+  "name": "Bitcoin, the Blockchain and Beyond",
+  "short-description": "A 360-Degree onboarding guide to the first cryptocurrency and blockchain",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2017"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "301"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Jean-Luc Verhelst"
+    },
+    "website": {
+      "value": "Website",
+      "url": "https://jeanlucverhelst.com/"
+    },
+    "twitter": {
+      "value": "@JLVerhelst",
+      "url": "https://x.com/JLVerhelst"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "@jeanlucverhelst",
+      "url": "https://www.youtube.com/jeanlucverhelst"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    }
+  }
+}
