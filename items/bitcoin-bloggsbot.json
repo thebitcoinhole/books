@@ -12,6 +12,12 @@
     },
     "pages": {
       "value": "70"
+    },
+    "rating": {
+      "value": 3.9
+    },
+    "reviews": {
+      "value": 7
     }
   },
   "authorship": {

@@ -11,6 +11,12 @@
     },
     "pages": {
       "value": "159"
+    },
+    "rating": {
+      "value": 4.6
+    },
+    "reviews": {
+      "value": 169
     }
   },
   "authorship": {
@@ -39,9 +45,9 @@
       "flag": "positive"
     },
     "paperback": {
-      "value": "NO",
-      "supported": false,
-      "flag": "negative"
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
     },
     "hardcover": {
       "value": "YES",

@@ -1,6 +1,7 @@
 {
   "id": "bitcoin-sovereignty-through-mathematics",
   "name": "Bitcoin: Sovereignty through mathematics",
+  "short-description": "",
   "purchasable": true,
   "basic-information": {
     "year": {
@@ -11,6 +12,12 @@
     },
     "pages": {
       "value": "107"
+    },
+    "rating": {
+      "value": 4.5
+    },
+    "reviews": {
+      "value": 217
     }
   },
   "authorship": {

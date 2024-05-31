@@ -1,6 +1,7 @@
 {
   "id": "bitcoin-independence-reimagined",
   "name": "Bitcoin: Independence reimagined",
+  "short-description": "",
   "purchasable": true,
   "basic-information": {
     "year": {
@@ -11,11 +12,17 @@
     },
     "pages": {
       "value": "107"
+    },
+    "rating": {
+      "value": 4.7
+    },
+    "reviews": {
+      "value": 114
     }
   },
   "authorship": {
     "authors": {
-      "value": "Knut Svanholm & Daniel Prince"
+      "value": "Knut Svanholm, Daniel Prince"
     },
     "website": {
       "value": "-"
@@ -42,14 +49,14 @@
       "flag": "positive"
     },
     "hardcover": {
-      "value": "YES",
-      "supported": true,
-      "flag": "positive"
-    },
-    "audiobook": {
       "value": "NO",
       "supported": false,
       "flag": "negative"
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
     }
   }
 }

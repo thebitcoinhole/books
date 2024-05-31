@@ -1,6 +1,7 @@
 {
   "id": "bitcoin-sovereignty-independence",
   "name": "Bitcoin: Sovereignty & Independence",
+  "short-description": "",
   "purchasable": true,
   "basic-information": {
     "year": {
@@ -11,6 +12,12 @@
     },
     "pages": {
       "value": "153"
+    },
+    "rating": {
+      "value": 5
+    },
+    "reviews": {
+      "value": 6
     }
   },
   "authorship": {

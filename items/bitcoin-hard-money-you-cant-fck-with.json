@@ -1,28 +1,36 @@
 {
-  "id": "bitcoin-and-blockchain-technology-explained-for-beginners",
-  "name": "Bitcoin & Blockchain Technology Explained For Beginners",
-  "short-description": "How Bitcoin (BTC), Cryptocurrency (+ Altcoins) & The Blockchain Works & Why They Will Revolutionize Everyone's Life (How To Make Money Book 8)",
+  "id": "bitcoin-hard-money-you-cant-fck-with",
+  "name": "Bitcoin: Hard Money You Can't F*ck With",
+  "short-description": "Why bitcoin will be the next global reserve currency",
   "purchasable": true,
   "basic-information": {
     "year": {
-      "value": "2023"
+      "value": "2020"
     },
     "publisher": {
-      "value": "-"
+      "value": "Going Parabolic Publishing"
     },
     "pages": {
-      "value": "144"
+      "value": "220"
+    },
+    "rating": {
+      "value": 4.8
+    },
+    "reviews": {
+      "value": 1133
     }
   },
   "authorship": {
     "authors": {
-      "value": "Brian Scott Fitzgerald"
+      "value": "Jason A. Williams"
     },
     "website": {
-      "value": "-"
+      "value": "Website",
+      "url": "https://bitcoinhard.money/"
     },
     "twitter": {
-      "value": "-"
+      "value": "@GoingParabolic",
+      "url": "https://x.com/GoingParabolic"
     },
     "nostr": {
       "value": "-"
@@ -43,9 +51,9 @@
       "flag": "positive"
     },
     "hardcover": {
-      "value": "YES",
-      "supported": true,
-      "flag": "positive"
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
     },
     "audiobook": {
       "value": "YES",

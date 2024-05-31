@@ -12,6 +12,12 @@
     },
     "pages": {
       "value": "116"
+    },
+    "rating": {
+      "value": 4.4
+    },
+    "reviews": {
+      "value": 1095
     }
   },
   "authorship": {
@@ -49,9 +55,9 @@
       "flag": "positive"
     },
     "audiobook": {
-      "value": "YES",
-      "supported": true,
-      "flag": "positive"
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
     }
   }
 }
