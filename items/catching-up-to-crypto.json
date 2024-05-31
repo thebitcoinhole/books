@@ -1,0 +1,57 @@
+{
+  "id": "catching-up-to-crypto",
+  "name": "Catching Up to Crypto",
+  "short-description": "Your Guide to Bitcoin and the New Digital Economy",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "publisher": {
+      "value": "Wiley"
+    },
+    "pages": {
+      "value": "173"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Ben Armstrong"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "@BenArmstrongsX",
+      "url": "https://x.com/BenArmstrongsX"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "paperback": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    },
+    "hardcover": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "audiobook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    }
+  }
+}
