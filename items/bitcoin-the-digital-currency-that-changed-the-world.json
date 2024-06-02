@@ -1,0 +1,62 @@
+{
+  "id": "bitcoin-the-digital-currency-that-changed-the-world",
+  "name": "Bitcoin The Digital Currency that changed the world",
+  "short-description": "The Decentralized Revolution",
+  "purchasable": true,
+  "basic-information": {
+    "year": {
+      "value": "2023"
+    },
+    "rating": {
+      "value": "5.0"
+    },
+    "reviews": {
+      "value": "1"
+    },
+    "publisher": {
+      "value": "-"
+    },
+    "pages": {
+      "value": "112"
+    }
+  },
+  "authorship": {
+    "authors": {
+      "value": "Mark Auditore"
+    },
+    "website": {
+      "value": "-"
+    },
+    "twitter": {
+      "value": "-"
+    },
+    "nostr": {
+      "value": "-"
+    },
+    "youtube": {
+      "value": "-"
+    }
+  },
+  "format": {
+    "ebook": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "paperback": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "hardcover": {
+      "value": "YES",
+      "supported": true,
+      "flag": "positive"
+    },
+    "audiobook": {
+      "value": "NO",
+      "supported": false,
+      "flag": "negative"
+    }
+  }
+}
