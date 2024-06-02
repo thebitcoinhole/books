@@ -1,0 +1,41 @@
+name: Update Metadata
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 11 * * 1"  # Runs every Monday at 11:30 UTC
+jobs:
+  update-metadata:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14
+
+    - name: Install dependencies
+      run: npm install
+      working-directory: scripts
+
+    - name: Update Amazon Books
+      working-directory: scripts
+      run: |
+        node load-amazon-books.js rating,reviews,format
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v6.0.2
+      id: create-pull-request
+      with:
+        title: "Updated Books Metadata"
+        commit-message: "Updated books ratings, reviews and formats"
+        branch: "book-data-update"
+        add-paths: "items/*.json"
+        reviewers: "${{ env.ASSIGNEE }}"
+
+  
+  
