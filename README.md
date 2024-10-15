@@ -75,6 +75,8 @@ All the features supported:
 | Category | Category Id | Feature | Feature Id |
 | --- | --- | --- | --- |
 | Basic Information | basic-information | Publication Year | year |
+| Basic Information | basic-information | Rating | rating |
+| Basic Information | basic-information | Reviews | reviews |
 | Basic Information | basic-information | Publisher | publisher |
 | Basic Information | basic-information | Pages | pages |
 | Authorship | authorship | Authors | authors |
